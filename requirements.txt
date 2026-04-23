@@ -1,0 +1,8 @@
+ultralytics
+facenet-pytorch
+torch
+torchvision
+opencv-python
+numpy
+pillow
+scikit-learn
